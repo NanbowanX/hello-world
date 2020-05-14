@@ -3,5 +3,5 @@ Just another repository
 
 Hi All,
 
-This is Jiachen from Anhui, China.
+This is JC from Anhui, China.
 I love myself!
